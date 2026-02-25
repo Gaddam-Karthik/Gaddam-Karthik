@@ -17,4 +17,4 @@ Kali Linux | Ubuntu | Windows
 - Internal Network Vulnerability Assessment & Service Enumeration
 
 ## 📫 Contact
-LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/gaddam-karthik-75a540253)
+LinkedIn: https://www.linkedin.com/in/gaddam-karthik-75a540253
