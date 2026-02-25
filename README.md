@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaddam Karthik
 
-<!--
-**Gaddam-Karthik/Gaddam-Karthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior VAPT Analyst with hands-on experience in web application and internal network penetration testing.
 
-Here are some ideas to get you started:
+## 🔐 Areas of Focus
+- Web Application Security (OWASP Top 10)
+- Network Vulnerability Assessment
+- Manual Vulnerability Validation
+- CVSS-based Risk Scoring & Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+Burp Suite | Nmap | Nessus | OWASP ZAP | Metasploit | Wireshark  
+Kali Linux | Ubuntu | Windows
+
+## 📂 Projects
+- Web Application Security Testing – SQL Injection, XSS, Access Control
+- Internal Network Vulnerability Assessment & Service Enumeration
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/YOUR-LINK
